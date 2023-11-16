@@ -3,7 +3,7 @@ email: awk@dbatu.ac.in #your-email@example.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
     A jekyll template for creating course websites.
  
-baseurl: "ATAL-DevOps-101"   # specify the subpath of your site
+baseurl: "DevOps-101"   # specify the subpath of your site
 url: "https://akiwelekar.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: akiwelekar#
 github_username: akiwwelekar #
