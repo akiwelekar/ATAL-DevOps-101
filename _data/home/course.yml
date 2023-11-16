@@ -2,10 +2,10 @@ content:
 - p: <p>This course aims to provide the primary knowledge and skills required for undergraduate students on DevOps.   
          By the end of the course, you will comprehend DevOps principles, implement CI/CD pipelines, and utilise virtualization and containerisation technologies.</p>
          
- - p: <p>The course  will equip you with tools and processes for version management (e.g. git, GitHub), testing (Pytest), 
-           code review (e.g., PyLint), virtualization (e.g., VMware), containerization (e.g., docker and Kubernetes) and infrastructure as Code (e.g. Terraform ) </p>
+- p: <p>The course  will equip you with tools and processes for version management (e.g. git, GitHub), testing (Pytest), 
+        code review (e.g., PyLint), virtualization (e.g., VMware), containerization (e.g., docker and Kubernetes) and infrastructure as Code (e.g. Terraform ) </p>
            
- - p: <p>You will be able to set up CI/CD pipeline using GitHub action  and deploy an application on the Heroku platform </p>
+- p: <p>You will be able to set up CI/CD pipeline using GitHub action  and deploy an application on the Heroku platform </p>
 
 - p: <p> Knowledge of one of the programming languages such as Python is the pre-requisite for this course </p>
 
