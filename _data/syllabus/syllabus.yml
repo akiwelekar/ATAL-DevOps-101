@@ -1,8 +1,9 @@
 syllabus:
-  - heading: Technology
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  - heading: Differences between Software Engineering and Computer Programming
+    content: " {Bridging the gap between  graduate student  to professional software engineer} <br>
+     Software engineering happens in an organizational context. Writing clean code vs writing clever code. Hyrum's Law. Software engineering multi-version
+     multi-person programming. Software Engineering is about addressing design tradeoffs.  Software engineering is beyond coding and development. 
+     Operational issues of software engineering"
 
   - heading: Materials  
     content: " {Recommended Materials} <br>
