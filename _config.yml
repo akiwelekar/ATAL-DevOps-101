@@ -6,7 +6,7 @@ description: > # short discription of your website. It is helpful for making you
 baseurl: "ATAL-DevOps-101"   # specify the subpath of your site
 url: "https://akiwelekar.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: akiwelekar#
-github_username:akiwwelekar #
+github_username: akiwwelekar #
 theme: minima
 plugins:
   - jekyll-feed
