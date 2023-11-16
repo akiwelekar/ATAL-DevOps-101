@@ -1,5 +1,6 @@
 content:
-- p: <p>This course aims to provide the primary knowledge and skills required for undergraduate students on DevOps.   By the end of the course, you will comprehend DevOps principles, implement CI/CD pipelines, utilise IaC tools,  and foster collaboration
-The course  will equip  with tools and processes for version management, testing, code review, virtualization, containerization and infrastructure</p>
+- p: <p>This course aims to provide the primary knowledge and skills required for undergraduate students on DevOps.   
+         By the end of the course, you will comprehend DevOps principles, implement CI/CD pipelines, utilise IaC tools,  and foster collaboration.
+         The course  will equip  with tools and processes for version management, testing, code review, virtualization, containerization and infrastructure</p>
 
 - p: <p> Knowledge of one of the programming languages such as Python is the pre-requisite for this course </p>
