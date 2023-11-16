@@ -3,10 +3,10 @@ syllabus:
     content: " {Bridging the gap between  graduate student  to professional software engineer} <br>
      Software engineering happens in an organizational context. Writing clean code vs writing clever code. Hyrum's Law. Software engineering multi-version
      multi-person programming. Software Engineering is about addressing design tradeoffs.  Software engineering is beyond coding and development. 
-     Operational issues of software engineering"
+     Operational issues of software engineering."
 
-  - heading: Materials  
-    content: " {Recommended Materials} <br>
+  - heading: Elements of Software Engineering
+    content: " {Five P's of Software Engineering} <br>
       Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
       Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
       Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
