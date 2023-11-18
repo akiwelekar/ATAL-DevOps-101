@@ -27,6 +27,10 @@ syllabus:
     content: " {Reviewing  Python Code} <br>
      Python Programming PEP-8 guidelines. Goals and process of Code review. Static Code Analysis. PyLint.  <br><br>"
 
+  - heading: Virtualization
+    content: " {Introduction to Virtualization a} <br>
+    Virtualization definition and types of virtualization. Virtual Machine.  Significance of virtualization to DevOps. Hypervisors. Virtualization and Cloud computing. Virtualization and DevOps.  <br><br>"
+
   - heading: Late Policy  
     content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
       Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
