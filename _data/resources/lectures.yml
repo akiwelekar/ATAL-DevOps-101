@@ -1,9 +1,9 @@
 lecture:
-  - lec: 'Lecture 1: Topic Name1' #edit Topic Name
+  - lec: 'Lecture 1: Differences between Software Engineering and Computer Programming' #edit Topic Name
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/slides/orca.pptx'
+          link: '../assets/slides/1-SE vs CP.pdf'
       - resource:
           type: 'Notes'
           link: '../assets/notes/orca.pdf'
