@@ -19,7 +19,7 @@ syllabus:
     content: " {Git and GitHub} <br>
      Git as a local repository. GitHub remote nature. Branching purpose and strategy. GitHub as collaborative tool  <br><br>"
 
-   - heading: Software Testing
+  - heading: Software Testing
     content: " {Testing Python Application} <br>
      Types of Software Testing. PyTest framework. Test fixture. Unit testing for Python. User Acceptance testing  <br><br>"
 
