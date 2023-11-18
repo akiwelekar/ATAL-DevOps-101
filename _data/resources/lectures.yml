@@ -10,16 +10,16 @@ lecture:
       - resource:
           type: 'Extra Reading'
           link: '#'
-  - lec: 'Lecture 2: Topic Name2'
+  - lec: 'Lecture 2: Elements of Software Engineering'
     resources:
       - resource:
-          type: 'Notes'
-          link: '../assets/notes/orca.pdf'
-  - lec: 'Lecture 3: Topic Name3'
+          type: 'Slides'
+          link: '../assets/notes/2-5-P of SE.pdf'
+  - lec: 'Lecture 3: Introduction to DevOps'
     resources:
       - resource:
-          type: 'Extra Reading'
-          link: '#'
+          type: 'Slides'
+          link: '../assets/notes/3-Intro2DevOps.pdf'
       - resource:
           type: 'Video Lecture'
           link: '#'
