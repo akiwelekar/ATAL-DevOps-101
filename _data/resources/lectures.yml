@@ -14,7 +14,7 @@ lecture:
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/2-5-P of SE.pdf'
+          link: '../assets/slides/2-5-P of SE.pdf'
       - resource:
           type: 'Notes'
           link: '#'
@@ -25,30 +25,30 @@ lecture:
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/3-Intro2DevOps.pdf'
+          link: '../assets/slides/3-Intro2DevOps.pdf'
        
   - lec: 'Lecture 4: Version Control System'
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/4-VerSionManagment.pdf' 
+          link: '../assets/slides/4-VerSionManagment.pdf' 
   - lec: 'Lecture 5: Software Testing'
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/6-SoftwareTesting.pdf'
+          link: '../assets/slides/6-SoftwareTesting.pdf'
   - lec: 'Lecture 6: Code Review'
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/5-CodeReview.pdf'
+          link: '../assets/slides/5-CodeReview.pdf'
   - lec: 'Lecture 7: Virtualization'
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/7-Virtualization.pdf'
+          link: '../assets/slides/7-Virtualization.pdf'
   - lec: 'Lecture 7: Containerization'
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/8-Containerization.pdf'     
+          link: '../assets/slides/8-Containerization.pdf'     
