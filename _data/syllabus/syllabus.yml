@@ -23,6 +23,10 @@ syllabus:
     content: " {Testing Python Application} <br>
      Types of Software Testing. PyTest framework. Test fixture. Unit testing for Python. User Acceptance testing  <br><br>"
 
+  - heading: Code Review
+    content: " {Reviewing  Python Code} <br>
+     Python Programming PEP-8 guidelines. Goals and process of Code review. Static Code Analysis. PyLint.  <br><br>"
+
   - heading: Late Policy  
     content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
       Mattis vulputate enim nulla aliquet. Odio ut sem nulla pharetra diam sit amet. 
