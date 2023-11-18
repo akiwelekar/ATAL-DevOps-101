@@ -23,16 +23,32 @@ lecture:
       - resource:
           type: 'Video Lecture'
           link: '#'
-   - lec: 'Lecture 4: Version Control System'
+  - lec: 'Lecture 4: Version Control System'
     resources:
       - resource:
           type: 'Slides'
           link: '../assets/notes/4-VerSionManagment.pdf' 
-   - lec: 'Lecture 5: Software Testing'
+  - lec: 'Lecture 5: Software Testing'
     resources:
       - resource:
           type: 'Slides'
           link: '../assets/notes/6-SoftwareTesting.pdf'
+  - lec: 'Lecture 6: Code Review'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/notes/5-CodeReview.pdf'
+  - lec: 'Lecture 7: Virtualization'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/notes/7-Virtualization.pdf'
+  - lec: 'Lecture 7: Containerization'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/notes/8-Containerization.pdf'
+    
       
   - lec: 'Lecture 4: Topic Name4'
     resources:
