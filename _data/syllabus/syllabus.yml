@@ -16,10 +16,8 @@ syllabus:
       DevOps: Software Development and Operations. Understanding DevOps through 5P Conceptual Framework. DevOps Industrial adoption. DevOps research opportunities  <br><br>"
       
   - heading: Version Control System
-    content: " {Five P's of Software Engineering} <br>
-      A Running Example. A Conceptual model to understand software engineering.  
-      (1) Process Perspective. (2) Product perspective. (3) Persona perspective.  (4) Principle perspective.
-      (5)  Practice perspective.  Practices at FANG and Startup  <br><br>"
+    content: " {Git and GitHub} <br>
+     Git as a local repository. GitHub remote nature. Branching purpose and strategy. GitHub as collaborative tool  <br><br>"
 
   - heading: Late Policy  
     content: "Porttitor leo a diam sollicitudin. Interdum varius sit amet mattis vulputate enim nulla.
