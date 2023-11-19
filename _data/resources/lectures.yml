@@ -6,7 +6,7 @@ lecture:
           link: '../assets/slides/1-SE vs CP.pdf'
       - resource:
           type: 'Notes'
-          link: '#'
+          link: '../assets/notes/ch1.pdf'
       - resource:
           type: 'Video Lecture'
           link: '#'
@@ -17,7 +17,7 @@ lecture:
           link: '../assets/slides/2-5-P of SE.pdf'
       - resource:
           type: 'Notes'
-          link: '#'
+          link: '../assets/notes/ch2.pdf'
       - resource:
           type: 'Video Lecture'
           link: '#'
@@ -47,6 +47,10 @@ lecture:
       - resource:
           type: 'Slides'
           link: '../assets/slides/7-Virtualization.pdf'
+     - resource:
+          type: 'Notes'
+          link: '../assets/notes/ch3.pdf'
+      
   - lec: 'Lecture 7: Containerization'
     resources:
       - resource:
