@@ -22,12 +22,8 @@ footer_content:
   - tabname: "Syllabus"
     link: "syllabus"
     subtopic:
-    - subtab: "Technology"
+    - subtab: "Detailed Content"
       sub_link: "syllabus#Technology" 
-    - subtab: "Materials"
-      sub_link: "syllabus#Materials" 
-    - subtab: "Late Policy"
-      sub_link: "syllabus#Late Policy"  
     - subtab: "Grading Policy"
       sub_link: "syllabus#Grading Policy"
 
