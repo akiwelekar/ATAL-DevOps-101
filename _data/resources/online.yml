@@ -1,5 +1,5 @@
 resource: 
-  - topic: Resource 1
-    link: http://example.com/res1/path
+  - topic: Git Tutorial for Beginners from the Programming with Mosh's YouTube Channel
+    link: https://www.youtube.com/watch?v=8JJ101D3knE&t=3677s
   - topic: Resource 2
     link: http://example.com/res2/path  
