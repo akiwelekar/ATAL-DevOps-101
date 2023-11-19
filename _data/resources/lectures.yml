@@ -49,7 +49,7 @@ lecture:
           link: '../assets/slides/7-Virtualization.pdf'
       - resource:
           type: 'Notes'
-          link: '../assets/notes/ch3.pdf'
+          link: '../assets/notes/ch3-1.pdf'
       
   - lec: 'Lecture 7: Containerization'
     resources:
