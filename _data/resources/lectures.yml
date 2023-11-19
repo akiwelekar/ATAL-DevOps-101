@@ -47,7 +47,7 @@ lecture:
       - resource:
           type: 'Slides'
           link: '../assets/slides/7-Virtualization.pdf'
-     - resource:
+      - resource:
           type: 'Notes'
           link: '../assets/notes/ch3.pdf'
       
